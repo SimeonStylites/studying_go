@@ -1,0 +1,6 @@
+mode: set
+math2/add.go:5.33,6.22 1 1
+math2/add.go:6.22,8.3 1 1
+math2/add.go:10.2,10.20 1 1
+math2/add.go:10.20,12.3 1 1
+math2/add.go:13.2,13.19 1 1
